@@ -17,7 +17,7 @@ sudo apt install -y python3-pip nginx
 Clone the FastAPI server app.
 
 ```bash
-git clone https://github.com/JoelEmmanuelCloud/Deploy-a-TodoApi-on-AWS.git
+git clone https://github.com/JoelEmmanuelCloud/deploy-a-todoapi-on-AWS.git
 ```
 
 Add the FastAPI configuration to NGINX's folder. Create a file called `fastapi_nginx`.
